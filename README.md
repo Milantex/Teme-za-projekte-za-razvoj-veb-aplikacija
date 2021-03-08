@@ -8,3 +8,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 
 - [Veb aplikacija za berzu usluga](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-berzu-usluga.md)
 - [Veb aplikacija za biblioteku srednjoškolske ustanove](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-biblioteku-srednjoskolske-ustanove.md)
+- [Veb aplikacija za aerodromski semafor sistem](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-aerodromski-semafor-sistem.md)
+- [Veb aplikacija za agenciju za izdavanje putničkih vozila](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-agenciju-za-izdavanje-putnickih-vozila.md)
+- [Veb aplikacija za akorde pesama za gitaru](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-akorde-pesama-za-gitaru.md)
+- [Veb aplikacija za aukcijsku prodaju](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-aukcijsku-prodaju.md)
