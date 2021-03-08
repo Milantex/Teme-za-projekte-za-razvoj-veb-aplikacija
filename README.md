@@ -1,4 +1,4 @@
-# Ideje za teme za projekte za razvoj veb aplikacija za početnike
+# Teme projekata za razvoj veb aplikacija za početnike
 
 Ovo spremište sadrži primere tema za projekte za razvoj veb aplikacija za početnike.
 
