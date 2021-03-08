@@ -83,3 +83,5 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za vođenje ličnih finansija](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-vodjenje-licnih-finansija.md)
 - [Veb aplikacija za zakazivanje termina u auto-perionici](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-zakazivanje-termina-u-auto-perionici.md)
 - [Veb aplikacija za zubarsku ordinaciju](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-zubarsku-ordinaciju.md)
+
+M. Tair, "Teme projekata za razvoj veb aplikacija za početnike", 2021. [Online]. Available at: https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija [Accessed: 2021-03-08]
