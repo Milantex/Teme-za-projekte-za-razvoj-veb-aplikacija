@@ -7,3 +7,4 @@ Teme sadrže tehnička ograničenja koja propisuju obavezno pravljenje aplikacij
 Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možete koristiti samo tekst teme kao osnovnu ideju za svoje projekte za vežbanje, ako ove teme koristite za samostalan rad i učenje, a ne za predmet na fakultetu. U tom slučaju se izričito pridržavajte navedenih ograničenja.
 
 - [Veb aplikacija za berzu usluga](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-berzu-usluga.md)
+- [Veb aplikacija za biblioteku srednjoškolske ustanove](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-biblioteku-srednjoskolske-ustanove.md)
