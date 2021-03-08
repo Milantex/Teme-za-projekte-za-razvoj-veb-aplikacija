@@ -6,7 +6,6 @@ Teme sadrže tehnička ograničenja koja propisuju obavezno pravljenje aplikacij
 
 Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možete koristiti samo tekst teme kao osnovnu ideju za svoje projekte za vežbanje, ako ove teme koristite za samostalan rad i učenje, a ne za predmet na fakultetu. U tom slučaju se izričito pridržavajte navedenih ograničenja.
 
-- [Veb aplikacija za bazene](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-bazene.md)
 - [Veb aplikacija za aerodromski semafor sistem](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-aerodromski-semafor-sistem.md)
 - [Veb aplikacija za agenciju za izdavanje putničkih vozila](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-agenciju-za-izdavanje-putnickih-vozila.md)
 - [Veb aplikacija za akorde pesama za gitaru](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-akorde-pesama-za-gitaru.md)
@@ -14,6 +13,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za auto servis](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-auto-servis.md)
 - [Veb aplikacija za avio-prevoznika](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-avio-prevoznika.md)
 - [Veb aplikacija za bazu kandidata za posao](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-bazu-kandidata-za-posao.md)
+- [Veb aplikacija za bazene](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-bazene.md)
 - [Veb aplikacija za biblioteku srednjoškolske ustanove](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-biblioteku-srednjoskolske-ustanove.md)
 - [Veb aplikacija za distribuciju video snimaka](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-distribuciju-video-snimaka.md)
 - [Veb aplikacija za e-katalog elektronskih uređaja](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-e-katalog-elektronskih-uredjaja.md)
