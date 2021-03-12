@@ -60,6 +60,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za on-lajn prodaju usluga](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-on-lajn-prodaju-usluga.md)
 - [Veb aplikacija za on-line prodaju cveća](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-on-line-prodaju-cveca.md)
 - [Veb aplikacija za osiguravajuću kuću za prodaju polisa osiguranja](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-osiguravajucu-kucu-za-prodaju-polisa-osiguranja.md)
+- [Veb aplikacija za pekaru](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pekaru.md)
 - [Veb aplikacija za ponudu-potražnju privatnih časova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-ponudu-potraznju-privatnih-casova.md)
 - [Veb aplikacija za praćenje dostupnosti veb sajtova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pracenje-dostupnosti-veb-sajtova.md)
 - [Veb aplikacija za predlaganje TV serija i filmova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-predlaganje-tv-serija-i-filmova.md)
