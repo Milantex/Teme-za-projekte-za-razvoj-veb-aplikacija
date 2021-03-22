@@ -9,6 +9,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za aerodromski semafor sistem](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-aerodromski-semafor-sistem.md)
 - [Veb aplikacija za agenciju za izdavanje putničkih vozila](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-agenciju-za-izdavanje-putnickih-vozila.md)
 - [Veb aplikacija za agenciju za iznajmljivanje reklamnog prostora](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-agenciju-za-iznajmljivanje-reklamnog-prostora.md)
+- [Veb aplikacija za agenciju za selidbe](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-agenciju-za-selidbe.md)
 - [Veb aplikacija za akorde pesama za gitaru](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-akorde-pesama-za-gitaru.md)
 - [Veb aplikacija za aukcijsku prodaju](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-aukcijsku-prodaju.md)
 - [Veb aplikacija za auto servis](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-auto-servis.md)
