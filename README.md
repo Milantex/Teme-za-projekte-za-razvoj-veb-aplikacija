@@ -8,6 +8,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 
 - [Veb aplikacija za aerodromski semafor sistem](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-aerodromski-semafor-sistem.md)
 - [Veb aplikacija za agenciju za izdavanje putničkih vozila](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-agenciju-za-izdavanje-putnickih-vozila.md)
+- [Veb aplikacija za agenciju za iznajmljivanje reklamnog prostora](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-agenciju-za-iznajmljivanje-reklamnog-prostora.md)
 - [Veb aplikacija za akorde pesama za gitaru](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-akorde-pesama-za-gitaru.md)
 - [Veb aplikacija za aukcijsku prodaju](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-aukcijsku-prodaju.md)
 - [Veb aplikacija za auto servis](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-auto-servis.md)
@@ -63,6 +64,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za pekaru](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pekaru.md)
 - [Veb aplikacija za planiranje treninga i plana ishrane](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-planiranje-treninga-i-plana-ishrane.md)
 - [Veb aplikacija za ponudu-potražnju privatnih časova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-ponudu-potraznju-privatnih-casova.md)
+- [Veb aplikacija za poređenje računarskih komponenata](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-poredjenje-racunarskih-komponenata.md)
 - [Veb aplikacija za praćenje dostupnosti veb sajtova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pracenje-dostupnosti-veb-sajtova.md)
 - [Veb aplikacija za predlaganje TV serija i filmova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-predlaganje-tv-serija-i-filmova.md)
 - [Veb aplikacija za pregledanje tekstova pesama](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pregledanje-tekstova-pesama.md)
@@ -89,6 +91,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za upravljanje objedinjenim kartama za muzeje](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-upravljanje-objedinjenim-kartama-za-muzeje.md)
 - [Veb aplikacija za upravljanje oglasima za posao i prijavama kandidata](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-upravljanje-oglasima-za-posao-i-prijavama-kandidata.md)
 - [Veb aplikacija za uređivanje mapa za pešačke ture](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-uredjivanje-mapa-za-pesacke-ture.md)
+- [Veb aplikacija za vođenje evidencije o potrošnji goriva](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-vodjenje-evidencije-o-potrosnji-goriva.md)
 - [Veb aplikacija za vođenje evidencije u procesu proizvodnje](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-vodjenje-evidencije-u-procesu-proizvodnje.md)
 - [Veb aplikacija za vođenje ličnih finansija](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-vodjenje-licnih-finansija.md)
 - [Veb aplikacija za zakazivanje termina u auto-perionici](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-zakazivanje-termina-u-auto-perionici.md)
