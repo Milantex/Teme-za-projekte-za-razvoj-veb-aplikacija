@@ -86,6 +86,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za prodaju PVC i ALU stolarije](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-prodaju-pvc-i-alu-stolarije.md)
 - [Veb aplikacija za prodaju slatkiša](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-prodaju-slatkisa.md)
 - [Veb aplikacija za prodaju uramljenih slika](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-prodaju-uramljenih-slika.md)
+- [Veb aplikacija za proračun kredita](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-proracun-kredita.md)
 - [Veb aplikacija za radnju za prodaju nameštaja](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-radnju-za-prodaju-namestaja.md)
 - [Veb aplikacija za restoran brze hrane](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-restoran-brze-hrane.md)
 - [Veb aplikacija za rezervaciju autobuskih karata](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-rezervaciju-autobuskih-karata.md)
