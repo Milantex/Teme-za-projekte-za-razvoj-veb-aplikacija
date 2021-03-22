@@ -61,9 +61,11 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za on-line prodaju cveća](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-on-line-prodaju-cveca.md)
 - [Veb aplikacija za osiguravajuću kuću za prodaju polisa osiguranja](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-osiguravajucu-kucu-za-prodaju-polisa-osiguranja.md)
 - [Veb aplikacija za pekaru](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pekaru.md)
+- [Veb aplikacija za planiranje treninga i plana ishrane](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-planiranje-treninga-i-plana-ishrane.md)
 - [Veb aplikacija za ponudu-potražnju privatnih časova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-ponudu-potraznju-privatnih-casova.md)
 - [Veb aplikacija za praćenje dostupnosti veb sajtova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pracenje-dostupnosti-veb-sajtova.md)
 - [Veb aplikacija za predlaganje TV serija i filmova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-predlaganje-tv-serija-i-filmova.md)
+- [Veb aplikacija za pregledanje tekstova pesama](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pregledanje-tekstova-pesama.md)
 - [Veb aplikacija za pretragu kataloga antikviteta](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pretragu-kataloga-antikviteta.md)
 - [Veb aplikacija za pretragu recepata](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pretragu-recepata.md)
 - [Veb aplikacija za privatnu kliniku](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-privatnu-kliniku.md)
@@ -91,5 +93,6 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za vođenje ličnih finansija](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-vodjenje-licnih-finansija.md)
 - [Veb aplikacija za zakazivanje termina u auto-perionici](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-zakazivanje-termina-u-auto-perionici.md)
 - [Veb aplikacija za zubarsku ordinaciju](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-zubarsku-ordinaciju.md)
+- [Veb aplikacije za pregled kataloga video igara](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacije-za-pregled-kataloga-video-igara.md)
 
 M. Tair, "Teme projekata za razvoj veb aplikacija za početnike", 2021. [Online]. Available at: https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija [Accessed: 2021-03-08]
