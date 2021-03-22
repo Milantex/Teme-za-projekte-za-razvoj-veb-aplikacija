@@ -48,6 +48,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za naručivanje majica sa štampom](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-narucivanje-majica-sa-stampom.md)
 - [Veb aplikacija za naručivanje pica](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-narucivanje-pica.md)
 - [Veb aplikacija za objavljivanje fotografija](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-objavljivanje-fotografija.md)
+- [Veb aplikacija za obrazaca za pripremu za štampu uverenja i diploma](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-obrazaca-za-pripremu-za-stampu-uverenja-i-diploma.md)
 - [Veb aplikacija za oglašavanje kućnih ljubimaca za usvajanje](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-oglasavanje-kucnih-ljubimaca-za-usvajanje.md)
 - [Veb aplikacija za oglašavanje nekretnina](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-oglasavanje-nekretnina.md)
 - [Veb aplikacija za oglašavanje pravnih lica](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-oglasavanje-pravnih-lica.md)
