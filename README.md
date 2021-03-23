@@ -47,6 +47,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za muzej](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-muzej.md)
 - [Veb aplikacija za naručivanje majica sa štampom](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-narucivanje-majica-sa-stampom.md)
 - [Veb aplikacija za naručivanje pica](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-narucivanje-pica.md)
+- [Veb aplikacija za novinsku agenciju](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-novinsku-agenciju.md)
 - [Veb aplikacija za objavljivanje fotografija](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-objavljivanje-fotografija.md)
 - [Veb aplikacija za obrazaca za pripremu za štampu uverenja i diploma](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-obrazaca-za-pripremu-za-stampu-uverenja-i-diploma.md)
 - [Veb aplikacija za oglašavanje kućnih ljubimaca za usvajanje](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-oglasavanje-kucnih-ljubimaca-za-usvajanje.md)
