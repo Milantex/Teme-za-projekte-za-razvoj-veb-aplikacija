@@ -76,6 +76,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za poređenje računarskih komponenata](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-poredjenje-racunarskih-komponenata.md)
 - [Veb aplikacija za praćenje dostupnosti veb sajtova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pracenje-dostupnosti-veb-sajtova.md)
 - [Veb aplikacija za predlaganje TV serija i filmova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-predlaganje-tv-serija-i-filmova.md)
+- [Veb aplikacija za pregled kataloga video igara](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pregled-kataloga-video-igara.md)
 - [Veb aplikacija za pregled TV programa - vodič](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pregled-tv-programa---vodic.md)
 - [Veb aplikacija za pregled vremenskih prognoza](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pregled-vremenskih-prognoza.md)
 - [Veb aplikacija za pregledanje tekstova pesama](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-pregledanje-tekstova-pesama.md)
@@ -111,6 +112,5 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za vođenje ličnih finansija](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-vodjenje-licnih-finansija.md)
 - [Veb aplikacija za zakazivanje termina u auto-perionici](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-zakazivanje-termina-u-auto-perionici.md)
 - [Veb aplikacija za zubarsku ordinaciju](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-zubarsku-ordinaciju.md)
-- [Veb aplikacije za pregled kataloga video igara](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacije-za-pregled-kataloga-video-igara.md)
 
 M. Tair, P. Jakić, "Teme projekata za razvoj veb aplikacija za početnike", 2021. [Online]. Available at: https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija [Accessed: 2021-03-08]
