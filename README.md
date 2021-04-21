@@ -103,6 +103,7 @@ Ne morate da se izričito pridržavate ovih tehničkih ograničenja, već možet
 - [Veb aplikacija za rezervaciju termina u frizerskom salonu](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-rezervaciju-termina-u-frizerskom-salonu.md)
 - [Veb aplikacija za rezervaciju termina u restoranima](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-rezervaciju-termina-u-restoranima.md)
 - [Veb aplikacija za sakupljanje ponuda proizvoda](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-sakupljanje-ponuda-proizvoda.md)
+- [Veb aplikacija za sastavljanje baze znanja](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-sastavljanje-baze-znanja.md)
 - [Veb aplikacija za simulaciju upravljanja postrojenjem solarne elektrane](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-simulaciju-upravljanja-postrojenjem-solarne-elektrane.md)
 - [Veb aplikacija za slanje mejlova](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-slanje-mejlova.md)
 - [Veb aplikacija za supermarket](https://github.com/Milantex/Teme-za-projekte-za-razvoj-veb-aplikacija/blob/main/teme/veb-aplikacija-za-supermarket.md)
